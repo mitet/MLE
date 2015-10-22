@@ -1,4 +1,4 @@
-% More text for testing
+% More for testing
 %
 function [J, grad] = lrCostFunction(theta, X, y, lambda)
 %LRCOSTFUNCTION Compute cost and gradient for logistic regression with 
